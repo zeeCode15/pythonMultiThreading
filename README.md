@@ -1,4 +1,4 @@
-# pythonMultiThreading
+# PythonMultiThreading
 
 > pip install fastapi
 
